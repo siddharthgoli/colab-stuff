@@ -28,3 +28,4 @@ qubits,keyspace,target,noise_type,noise_strength,oracle_queries,success_probabil
 4,16,11,amplitude_damping,0.05,,0.05318710120147037
 4,16,11,amplitude_damping,0.1,,0.0293551141166712
 4,16,11,phase_damping,0.0,2.0,0.9084472656254601
+4,16,11,phase_damping,0.001,2.0,0.898296014082347
