@@ -53,3 +53,4 @@ qubits,keyspace,target,noise_type,noise_strength,oracle_queries,success_probabil
 6,64,43,phase_flip,0.005,,0.10782807461928158
 6,64,43,phase_flip,0.01,,0.05692468142549101
 6,64,43,phase_flip,0.02,,0.025289123585404923
+6,64,43,phase_flip,0.05,,0.015892191128554344
