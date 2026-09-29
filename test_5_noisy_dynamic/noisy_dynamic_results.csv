@@ -76,3 +76,4 @@ qubits,keyspace,target,noise_type,noise_strength,oracle_queries,success_probabil
 8,256,171,depolarizing,0.02,,0.003965739444711345
 8,256,171,depolarizing,0.05,,0.0039062692351304485
 8,256,171,depolarizing,0.1,,0.003906250000263591
+8,256,171,bit_flip,0.0,9.0,0.8606760446029428
