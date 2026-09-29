@@ -1,3 +1,4 @@
 qubits,keyspace,target,noise_type,noise_strength,oracle_queries,success_probability
-4,16,11,depolarizing,0.0,2,0.9084472656259881
-4,16,11,depolarizing,0.001,2,0.8655372385472162
+4,16,11,depolarizing,0.0,2.0,0.9084472656259881
+4,16,11,depolarizing,0.001,2.0,0.8655372385472162
+4,16,11,depolarizing,0.005,,0.40680783984974817
