@@ -1,3 +1,4 @@
 qubits,keyspace,target,oracle_queries,success_probability
 4,16,11,2,0.9084472656249968
 6,64,43,5,0.9635154816192002
+8,256,171,9,0.8606760445971503
