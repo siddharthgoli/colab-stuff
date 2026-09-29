@@ -47,3 +47,4 @@ qubits,keyspace,target,noise_type,noise_strength,oracle_queries,success_probabil
 6,64,43,bit_flip,0.01,,0.06045437712516559
 6,64,43,bit_flip,0.02,,0.026580869292903604
 6,64,43,bit_flip,0.05,,0.015952846030142968
+6,64,43,bit_flip,0.1,,0.015627763603559695
