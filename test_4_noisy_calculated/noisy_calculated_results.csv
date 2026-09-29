@@ -1,2 +1,3 @@
 qubits,keyspace,target,noise_type,noise_strength,oracle_queries,success_probability,effective_cost
 4,16,11,depolarizing,0.0,3,0.961318969728032,3.120712369640156
+4,16,11,depolarizing,0.001,3,0.9006369046568456,3.330976095347813
