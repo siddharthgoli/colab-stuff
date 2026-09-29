@@ -1,0 +1,16 @@
+noise_type,qubits,conditions_reached,conditions_tested,conditions_failed
+amplitude_damping,4,1,6,5
+amplitude_damping,6,1,6,5
+amplitude_damping,8,0,6,6
+bit_flip,4,1,6,5
+bit_flip,6,1,6,5
+bit_flip,8,0,6,6
+depolarizing,4,1,6,5
+depolarizing,6,0,6,6
+depolarizing,8,0,6,6
+phase_damping,4,2,6,4
+phase_damping,6,1,6,5
+phase_damping,8,1,6,5
+phase_flip,4,1,6,5
+phase_flip,6,0,6,6
+phase_flip,8,0,6,6
