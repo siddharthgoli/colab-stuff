@@ -36,3 +36,4 @@ qubits,keyspace,target,noise_type,noise_strength,oracle_queries,success_probabil
 4,16,11,phase_damping,0.1,,0.10036497149253883
 6,64,43,depolarizing,0.0,5.0,0.9635154816227769
 6,64,43,depolarizing,0.001,,0.1749121317380927
+6,64,43,depolarizing,0.005,,0.07921696314968432
